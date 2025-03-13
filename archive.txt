@@ -1,2 +1,3 @@
 NAME_ARCHIVE: archive.txti have sleep
 NAME: Trabajador 1
+DESCRIPION: Modificacion del archive.txt por trabajador 1
